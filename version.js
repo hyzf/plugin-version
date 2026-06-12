@@ -1,1 +1,1 @@
-window.__pluginLatestVersion = "9.6";
+window.__pluginLatestVersion = "9.7";
